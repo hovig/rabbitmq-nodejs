@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-nodejs",
+  "version": "0.0.1",
+  "description": "rabbitmq-nodejs to send/receive messages",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": {
+    "name": "hovig",
+    "email": "hovigg@hotmail.com"
+  },
+  "dependencies": {
+    "amqp": "0.2.0",
+    "express": "3.4.4",
+    "jackrabbit": "*",
+    "dotenv": "*"
+  }
+}
