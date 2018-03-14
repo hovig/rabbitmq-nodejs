@@ -3,7 +3,7 @@
 ![rabbitmq architecture pic](https://raw.githubusercontent.com/hovig/rabbitmq-nodejs/master/docs/rabbitmq%20architecture.png)
 
 
-Message Queuing and middleware are very core enterprise components. Message broker's task is to leverage inconsistencies in the system and queue the incoming messages from client applications called Producers, the messages get contained in the Message Queuing under a label called Topic and transmits them to the Consumer(s) which are other applications that make use of these messages. 
+Message Queuing and middleware are very core enterprise components. Message broker's task is to leverage inconsistencies in the system and queue the incoming messages from client applications called Producers, the messages get contained in the Message Queuing labeled as Topic with a given name and transmits them to the Consumer(s) which are other applications that make use of these messages. 
 
  
 
