@@ -15,8 +15,8 @@ There are multiple ways to do that:
 3) npm start
 
 * B - As a docker
-docker pull hovig/rabbitmq-nodejs
-docker run hovig/rabbitmq-nodejs
+- docker pull hovig/rabbitmq-nodejs
+- docker run hovig/rabbitmq-nodejs
 
 * C - As a docker on your local machine
 
